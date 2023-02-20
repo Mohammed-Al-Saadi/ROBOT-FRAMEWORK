@@ -1,0 +1,4 @@
+Consider the following type of program: The program gets one number as an input from user.
+If number is even, divide is by two (2). If number is odd, multiply it by three (3) and add one (1). Print new number to user. Continue this until number is one (1).
+Example: If given number is 12, algorithm works like: 12-6-3-10-5-16-8-4-2-1
+Create the program and tests with Python using test-driven development way.
